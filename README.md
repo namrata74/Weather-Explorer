@@ -1,6 +1,7 @@
 # Weather-Explorer
 
 Weather Explorer 🌞
+
 Welcome to the Weather Explorer project! 🌈
 
 Features:
